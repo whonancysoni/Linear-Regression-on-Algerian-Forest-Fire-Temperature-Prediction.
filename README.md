@@ -1,6 +1,5 @@
 # Linear-Regression-on-Algerian-Forest-Fire-Temperature-Prediction.
-Practical Implementation of Linear Regression on Algerian Forest Fire Dataset.
-And also Building Regression Predicted Model on Target Feature 'Temperature'.
+Practical Implementation of Linear Regression on Algerian Forest Fire Dataset and also Building Regression Predicted Model on Target Feature 'Temperature'.
 
 1) Loading Algerian Forest Fire Dataset.
 2) Performing Details EDA Analysis.
